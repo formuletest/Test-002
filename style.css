@@ -1,0 +1,12 @@
+nav {
+    background-color: rgb(202, 136, 89);
+}
+ul{
+    background-color: grey;
+    flex: content;
+}
+
+h1, h2, body{
+    background-color: tan;
+    border: 2px;
+}
